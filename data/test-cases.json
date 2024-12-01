@@ -1,0 +1,21 @@
+[
+    {
+      "description": "Verify 'Draft project brief' in 'To do' column with tags.",
+      "email": "ben+pose@workwithloop.com",
+      "password": "Password123",
+      "taskName": "Draft project brief",
+      "column": "To do",
+      "tags": ["Non-Priority", "On track"],
+      "projectUrl": "https://app.asana.com/0/120000000000/120000000000"
+    },
+    {
+      "description": "Verify 'Schedule kickoff meeting' in 'To do' column with tags.",
+      "email": "ben+pose@workwithloop.com",
+      "password": "Password123",
+      "taskName": "Schedule kickoff meeting",
+      "column": "To do",
+      "tags": ["Medium", "At risk"],
+      "projectUrl": "https://app.asana.com/0/120000000000/120000000000"
+    }
+  ]
+  
